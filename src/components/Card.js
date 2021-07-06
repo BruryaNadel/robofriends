@@ -14,4 +14,3 @@ const Card = ({name, email, id}) => {
 
 export default Card;
 
-// fl w-20 pa2
