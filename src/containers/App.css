@@ -13,6 +13,3 @@ h1{
     src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
     }
 
-.card{
-    max-height: 500px;
-}
